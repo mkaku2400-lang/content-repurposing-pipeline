@@ -1,0 +1,14 @@
+[theme]
+base = "dark"
+primaryColor = "#E8A33D"
+backgroundColor = "#111418"
+secondaryBackgroundColor = "#1B2027"
+textColor = "#E6E8EB"
+# The copy blocks hold titles and posts, not code, so they use the normal text font.
+codeFont = "sans-serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
